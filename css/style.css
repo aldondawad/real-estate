@@ -139,7 +139,7 @@ body {
     align-items: flex-start;
     justify-content: center;
     padding: 0 80px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.048),#ffffff),url('../real-estate/images/logo.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.048),#ffffff),url('real-estate/images/logo.png');
     background-size: cover;
     background-position: center;
     height: 100vh; 
